@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".bash_profile" type="Bash" />
+      <mapping pattern="scripts/git-hooks/pre-commit" type="Bash" />
+      <mapping pattern="pre-commit" type="Bash" />
+      <mapping pattern="composer" type="PHP" />
+      <mapping pattern="src/BehatTableComparison/TableAssertion" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="To-do" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="XML" />
+    </extensionMap>
+  </component>
+</application>
