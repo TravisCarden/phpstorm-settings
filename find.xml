@@ -19,6 +19,7 @@
       <mask>composer.json</mask>
       <mask>*.php</mask>
       <mask>*.services.yml</mask>
+      <mask>.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
