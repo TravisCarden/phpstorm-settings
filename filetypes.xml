@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="info" type="Ini" />
       <mapping ext="plist" type="Native" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
     </extensionMap>
