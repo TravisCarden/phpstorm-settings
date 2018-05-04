@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="plist" type="Native" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
