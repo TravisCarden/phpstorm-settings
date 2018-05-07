@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="plist" type="Native" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
