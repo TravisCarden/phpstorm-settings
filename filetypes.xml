@@ -3,7 +3,11 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="plist" type="Native" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
     </extensionMap>
