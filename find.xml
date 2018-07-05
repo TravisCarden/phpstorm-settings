@@ -17,5 +17,6 @@
     <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>field*.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
