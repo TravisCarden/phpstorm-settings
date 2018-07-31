@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".bash*" type="Bash" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".github_changelog_generator" type="Ini" />
       <mapping ext="info" type="Ini" />
       <mapping ext="plist" type="Native" />
