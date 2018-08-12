@@ -16,5 +16,6 @@
     <mask>*.yml</mask>
     <mask>composer.json</mask>
     <mask>*.php</mask>
+    <mask>*.services.yml</mask>
   </component>
 </application>
