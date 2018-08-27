@@ -11,6 +11,7 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
