@@ -12,6 +12,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="*.xml.dist" type="XML" />
     </extensionMap>
   </component>
 </application>
