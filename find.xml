@@ -13,9 +13,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>field*.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.services.yml</mask>
     <mask>composer.json</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
