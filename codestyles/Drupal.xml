@@ -1,15 +1,10 @@
-<code_scheme name="Drupal">
+<code_scheme name="Drupal" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="80" />
@@ -21,11 +16,14 @@
     <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
-    <option name="PHPDOC_THROWS_CALL_TREE_ANALYSIS_DEPTH" value="1" />
     <option name="UPPER_CASE_BOOLEAN_CONST" value="true" />
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINES_AROUND_CONSTANTS" value="1" />
@@ -36,6 +34,9 @@
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="true" />
+  </yaml>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
