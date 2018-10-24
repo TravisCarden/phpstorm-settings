@@ -1,18 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".bash*" type="Bash" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".github_changelog_generator" type="Ini" />
-      <mapping ext="info" type="Ini" />
-      <mapping ext="plist" type="Native" />
-      <mapping ext="install" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="*.xml.dist" type="XML" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="theme" type="PHP" />
     </extensionMap>
   </component>
 </application>

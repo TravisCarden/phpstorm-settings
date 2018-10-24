@@ -3,19 +3,22 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>field*.yml</mask>
-    <mask>*.php</mask>
-    <mask>*.services.yml</mask>
-    <mask>*.yml</mask>
-    <mask>composer.json</mask>
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.migration.*.yml</mask>
+      <mask>*.yml</mask>
+      <mask>composer.lock</mask>
+      <mask>composer.json</mask>
+      <mask>*.php</mask>
+      <mask>*.services.yml</mask>
+    </recentFileMasks>
   </component>
 </application>
