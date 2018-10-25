@@ -1,13 +1,13 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1540396280762" actual="0" highlighted="false" highlightingtype="Red" title="Remove remainder of symfony/framework-bundle" description="Check diff!" />
       <task priority="Normal" completed="false" estimated="0" created="1540396353829" actual="0" highlighted="false" highlightingtype="Red" title="Replace `console cache:clear`" description="Don&amp;#39;t forget to add to composer scripts" />
       <task priority="Normal" completed="false" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396521022" actual="0" highlighted="false" highlightingtype="Red" title="Make self-test clear cache" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396789015" actual="0" highlighted="false" highlightingtype="Red" title="Correct ORCA_FIXTURE_ROOT constant pattern" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540397901555" actual="0" highlighted="false" highlightingtype="Red" title="Move docs into directory" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540444568470" actual="0" highlighted="false" highlightingtype="Red" title="Make ProcessRunner a class instead of a trait" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
     </tasks>
   </component>
 </application>
