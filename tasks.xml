@@ -1,7 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1540512534445" actual="0" highlighted="false" highlightingtype="Red" title="Add PHP linting" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540512534445" actual="0" highlighted="false" highlightingtype="Red" title="Add PHP linting of ORCA itself" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540530029385" actual="0" highlighted="false" highlightingtype="Red" title="Add PHP linting of SUT" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396521022" actual="0" highlighted="false" highlightingtype="Red" title="Make self-test clear cache" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396789015" actual="0" highlighted="false" highlightingtype="Red" title="Correct ORCA_FIXTURE_ROOT constant pattern" description="" />
@@ -10,6 +11,8 @@
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a SUT class" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Eliminate unstable dependency on lightning-api clone for self-test" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540529766625" actual="0" highlighted="false" highlightingtype="Red" title="Fix phpcs not rejecting a commit that fails" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
     </tasks>
   </component>
 </application>
