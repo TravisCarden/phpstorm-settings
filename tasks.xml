@@ -13,6 +13,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Eliminate unstable dependency on lightning-api clone for self-test" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540529766625" actual="0" highlighted="false" highlightingtype="Red" title="Fix phpcs not rejecting a commit that fails" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixturee:create return an error code if verification fails" description="" />
     </tasks>
   </component>
 </application>
