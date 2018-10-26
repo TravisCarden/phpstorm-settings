@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1540396353829" actual="0" highlighted="false" highlightingtype="Red" title="Replace `console cache:clear`" description="Don&amp;#39;t forget to add to composer scripts" />
       <task priority="Normal" completed="false" estimated="0" created="1540524556854" actual="0" highlighted="false" highlightingtype="Red" title="Remove .sh extensions on shell scripts" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540512534445" actual="0" highlighted="false" highlightingtype="Red" title="Add PHP linting" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
