@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1540512534445" actual="0" highlighted="false" highlightingtype="Red" title="Add PHP linting of ORCA itself" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixturee:create return an error code if verification fails" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396789015" actual="0" highlighted="false" highlightingtype="Red" title="Correct ORCA_FIXTURE_ROOT constant pattern" description="" />
