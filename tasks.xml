@@ -3,7 +3,6 @@
     <tasks>
       <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixturee:create return an error code if verification fails" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1540396789015" actual="0" highlighted="false" highlightingtype="Red" title="Correct ORCA_FIXTURE_ROOT constant pattern" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a SUT class" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Eliminate unstable dependency on lightning-api clone for self-test" description="" />
