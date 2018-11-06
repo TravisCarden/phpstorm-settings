@@ -1,9 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:create return an error code if verification fails" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
-      </task>
+      <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:create return an error code if verification fails" description="" />
       <task priority="Normal" completed="true" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a SUT class" description="" />
@@ -19,6 +17,8 @@
       <task priority="Normal" completed="false" estimated="0" created="1540581880925" actual="0" highlighted="false" highlightingtype="Red" title="Get package directory &quot;correctly&quot;, via Composer, so as to support non-modules" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540617918568" actual="0" highlighted="false" highlightingtype="Red" title="Composer installing ORCA --no-dev results in a failure due to missing symfony security checker" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541386853927" actual="0" highlighted="false" highlightingtype="Red" title="Add composer.json validation" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1541466032938" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;The fixture&quot; doxygen to say &quot;The facade&quot; or something?" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
     </tasks>
   </component>
 </application>
