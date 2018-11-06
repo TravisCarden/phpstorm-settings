@@ -20,6 +20,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1541466839113" actual="0" highlighted="false" highlightingtype="Red" title="Make @property annotation for object prophecies use domain objects, too, so that refactorings work on them" description="" />
       <task priority="Normal" completed="true" estimated="0" created="1540396480798" actual="0" highlighted="false" highlightingtype="Red" title="Add fixture-&gt;exists() test to tests:run command" description="" />
       <task priority="Normal" completed="true" estimated="0" created="1540533021104" actual="0" highlighted="false" highlightingtype="Red" title="Change ProcessRunner to use &quot;&gt; &quot; prefixes instead of comments" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1541470765388" actual="0" highlighted="false" highlightingtype="Red" title="Fix process runner not terminating PHP process from development web server" description="" />
     </tasks>
   </component>
 </application>
