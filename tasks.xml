@@ -25,6 +25,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1541545872344" actual="0" highlighted="false" highlightingtype="Red" title="Make an HTTP request to the front page after setting up the fixture" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541549038745" actual="0" highlighted="false" highlightingtype="Red" title="Expand the README" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1541556578756" actual="0" highlighted="false" highlightingtype="Red" title="Validate .travis.yml" description="" />
     </tasks>
   </component>
 </application>
