@@ -4,7 +4,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:create return an error code if verification fails" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a SUT class" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Eliminate unstable dependency on lightning-api clone for self-test" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Replace unstable dependency on lightning-api clone for self-test with a test module" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540533049539" actual="0" highlighted="false" highlightingtype="Red" title="Don't forget the importance of getting the BLT no-merge-plugin branch merged in" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540533194688" actual="0" highlighted="false" highlightingtype="Red" title="Kill drupalvm?" description="" />
@@ -26,6 +26,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1541549038745" actual="0" highlighted="false" highlightingtype="Red" title="Expand the README" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541556578756" actual="0" highlighted="false" highlightingtype="Red" title="Validate .travis.yml" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1541746579609" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:rm prompt give the directory (i.e., Are you sure you want to remove the fixture AT /var/www/etc...?)" description="" />
     </tasks>
   </component>
 </application>
