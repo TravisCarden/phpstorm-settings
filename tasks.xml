@@ -19,6 +19,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541746579609" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:rm prompt give the directory (i.e., Are you sure you want to remove the fixture AT /var/www/etc...?)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
+      <task priority="Normal" completed="false" estimated="0" created="1542309601100" actual="0" highlighted="false" highlightingtype="Red" title="Uninstall all modules at end of build?" description="" />
     </tasks>
   </component>
 </application>
