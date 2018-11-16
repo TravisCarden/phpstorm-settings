@@ -8,7 +8,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Replace unstable dependency on lightning-api clone for self-test with a test module" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1540533049539" actual="0" highlighted="false" highlightingtype="Red" title="Don't forget the importance of getting the BLT no-merge-plugin branch merged in" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540533049539" actual="0" highlighted="false" highlightingtype="Red" title="Get on BLT 10" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540572880244" actual="0" highlighted="false" highlightingtype="Red" title="Stop Drush --notify" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541466032938" actual="0" highlighted="false" highlightingtype="Red" title="Rename Facade to Fixture" description="" />
