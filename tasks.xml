@@ -1,7 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1542648886625" actual="0" highlighted="false" highlightingtype="Red" title="Refactor TestRunner and StaticAnalysisRunner into generic TaskRunner" description="" />
+      <task priority="Important" completed="true" estimated="0" created="1542648886625" actual="0" highlighted="false" highlightingtype="Red" title="Refactor TestRunner and StaticAnalysisRunner into generic TaskRunner" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542724545301" actual="0" highlighted="false" highlightingtype="Red" title="Look at Adam's PR" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542646743336" actual="0" highlighted="false" highlightingtype="Red" title="Add status messages to task classes" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
