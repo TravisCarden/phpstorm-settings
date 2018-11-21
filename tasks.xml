@@ -2,7 +2,6 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1542724545301" actual="0" highlighted="false" highlightingtype="Red" title="Look at Adam's PR" description="" />
-      <task priority="Important" completed="false" estimated="0" created="1542646743336" actual="0" highlighted="false" highlightingtype="Red" title="Add status messages to task classes" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542399241365" actual="0" highlighted="false" highlightingtype="Red" title="Add visibility to all constants" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a Project class" description="" />
