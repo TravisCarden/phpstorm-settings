@@ -13,7 +13,6 @@
       <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541545872344" actual="0" highlighted="false" highlightingtype="Red" title="Make an HTTP request to the front page after setting up the fixture" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
-      <task priority="Normal" completed="false" estimated="0" created="1542309601100" actual="0" highlighted="false" highlightingtype="Red" title="Uninstall all modules at end of build?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542385002068" actual="0" highlighted="false" highlightingtype="Red" title="Internal" description="">
         <task priority="Normal" completed="false" estimated="0" created="1540572880244" actual="0" highlighted="false" highlightingtype="Red" title="Stop Drush --notify" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
