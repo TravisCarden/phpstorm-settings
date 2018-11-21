@@ -24,6 +24,8 @@
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1542809586875" actual="0" highlighted="false" highlightingtype="Red" title="Document testing tools available (incl. DTT)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1542822664968" actual="0" highlighted="false" highlightingtype="Red" title="Make version constraint of SUT suppliable by the SUT repo" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
     </tasks>
   </component>
 </application>
