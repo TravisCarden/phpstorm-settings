@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1542724545301" actual="0" highlighted="false" highlightingtype="Red" title="Look at Adam's PR" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Important" completed="false" estimated="0" created="1542823973114" actual="0" highlighted="false" highlightingtype="Red" title="Consider the future-release-of-Drupal-core + Lightning problem" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542399241365" actual="0" highlighted="false" highlightingtype="Red" title="Add visibility to all constants" description="" />
@@ -14,6 +13,10 @@
       <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541545872344" actual="0" highlighted="false" highlightingtype="Red" title="Make an HTTP request to the front page after setting up the fixture" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
+      <task priority="Normal" completed="false" estimated="0" created="1542809586875" actual="0" highlighted="false" highlightingtype="Red" title="Document testing tools available (incl. DTT)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1542822664968" actual="0" highlighted="false" highlightingtype="Red" title="Make version constraint of SUT suppliable by the SUT repo" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?" />
       <task priority="Normal" completed="false" estimated="0" created="1542385002068" actual="0" highlighted="false" highlightingtype="Red" title="Internal" description="">
         <task priority="Normal" completed="false" estimated="0" created="1540572880244" actual="0" highlighted="false" highlightingtype="Red" title="Stop Drush --notify" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
@@ -24,10 +27,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1541545596711" actual="0" highlighted="false" highlightingtype="Red" title="Document release process" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1542809586875" actual="0" highlighted="false" highlightingtype="Red" title="Document testing tools available (incl. DTT)" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1542822664968" actual="0" highlighted="false" highlightingtype="Red" title="Make version constraint of SUT suppliable by the SUT repo" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?" />
     </tasks>
   </component>
 </application>
