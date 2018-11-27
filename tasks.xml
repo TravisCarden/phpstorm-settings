@@ -25,6 +25,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1543213782360" actual="0" highlighted="false" highlightingtype="Red" title="Get list of submodules from projects themselves (instead of projects.yml)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
     </tasks>
   </component>
 </application>
