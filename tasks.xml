@@ -1,7 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1540505306694" actual="0" highlighted="false" highlightingtype="Red" title="Replace unstable dependency on lightning-api clone for self-test with a test module" description="" />
       <task priority="Important" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Important" completed="false" estimated="0" created="1542823973114" actual="0" highlighted="false" highlightingtype="Red" title="Consider the future-release-of-Drupal-core + Lightning problem" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a Project class" description="" />
