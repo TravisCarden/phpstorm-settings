@@ -3,8 +3,8 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1542823973114" actual="0" highlighted="false" highlightingtype="Red" title="Consider the future-release-of-Drupal-core + Lightning problem" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Move example module into `examples` directory" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a Project class" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:create return an error code if verification fails" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
