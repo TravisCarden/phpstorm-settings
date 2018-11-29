@@ -7,7 +7,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a Project class" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540531963880" actual="0" highlighted="false" highlightingtype="Red" title="Make fixture:create return an error code if verification fails" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support?" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support? (errors and success)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541545872344" actual="0" highlighted="false" highlightingtype="Red" title="Make an HTTP request to the front page after setting up the fixture" description="" />
