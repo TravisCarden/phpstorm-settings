@@ -1,7 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1542823973114" actual="0" highlighted="false" highlightingtype="Red" title="Consider the future-release-of-Drupal-core + Lightning problem" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
@@ -26,6 +26,7 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1543213782360" actual="0" highlighted="false" highlightingtype="Red" title="Get list of submodules from projects themselves (instead of projects.yml)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
     </tasks>
   </component>
 </application>
