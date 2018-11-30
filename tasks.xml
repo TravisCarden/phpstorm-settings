@@ -17,6 +17,9 @@
       <task priority="Normal" completed="false" estimated="0" created="1542822664968" actual="0" highlighted="false" highlightingtype="Red" title="Make version constraint of SUT suppliable by the SUT repo" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?" />
+      <task priority="Normal" completed="false" estimated="0" created="1543213782360" actual="0" highlighted="false" highlightingtype="Red" title="Get list of submodules from projects themselves (instead of projects.yml)" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542385002068" actual="0" highlighted="false" highlightingtype="Red" title="Internal" description="">
         <task priority="Normal" completed="false" estimated="0" created="1540572880244" actual="0" highlighted="false" highlightingtype="Red" title="Stop Drush --notify" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
@@ -25,9 +28,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1541545596711" actual="0" highlighted="false" highlightingtype="Red" title="Document release process" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1543213782360" actual="0" highlighted="false" highlightingtype="Red" title="Get list of submodules from projects themselves (instead of projects.yml)" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
     </tasks>
   </component>
 </application>
