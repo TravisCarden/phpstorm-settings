@@ -28,6 +28,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543517866393" actual="0" highlighted="false" highlightingtype="Red" title="Change web server to use Drush" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may different by branch or even commit." />
     </tasks>
   </component>
 </application>
