@@ -29,6 +29,8 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1543850292041" actual="0" highlighted="false" highlightingtype="Red" title="&quot;composer-exit-on-patch-failure&quot;: true," description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543953547453" actual="0" highlighted="false" highlightingtype="Red" title="Add Cog theme" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543954776885" actual="0" highlighted="false" highlightingtype="Red" title="Add to example directory (module, theme, drush-command, etc.)?" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543955152830" actual="0" highlighted="false" highlightingtype="Red" title="Rename Creator-&gt;FixtureCreator and Remover-&gt;FixtureRemover" description="" />
     </tasks>
   </component>
 </application>
