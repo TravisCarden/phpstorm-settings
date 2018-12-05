@@ -34,6 +34,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544030548703" actual="0" highlighted="false" highlightingtype="Red" title="Add MAINTAINING.md" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production [see note]" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
+      <task priority="Normal" completed="false" estimated="0" created="1544035251848" actual="0" highlighted="false" highlightingtype="Red" title="Document need to alias branches [see note]" description="https://getcomposer.org/doc/articles/aliases.md#branch-alias" />
     </tasks>
   </component>
 </application>
