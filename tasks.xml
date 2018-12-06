@@ -2,7 +2,7 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Normal" completed="false" estimated="0" created="1540505033063" actual="0" highlighted="false" highlightingtype="Red" title="Create a Project class" description="" />
-      <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may different by branch or even commit." />
+      <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may differ by branch or even commit." />
       <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
