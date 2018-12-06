@@ -34,6 +34,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production [see note]" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
       <task priority="Normal" completed="false" estimated="0" created="1544035251848" actual="0" highlighted="false" highlightingtype="Red" title="Document need to alias branches [see note]" description="https://getcomposer.org/doc/articles/aliases.md#branch-alias" />
       <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1544135410823" actual="0" highlighted="false" highlightingtype="Red" title="Consider changing docroot/modules/contrib/acquia to .../orca (or something)... [note]" description="...and only placing into it modules that are explicitly placed by an ORCA build (so that in a SUT-only build, for example, ORCA doesn&amp;#39;t install all submodules of non-SUT modules)." />
     </tasks>
   </component>
 </application>
