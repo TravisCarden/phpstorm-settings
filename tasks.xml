@@ -4,8 +4,10 @@
       <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may differ by branch or even commit.">
         <task priority="Normal" completed="false" estimated="0" created="1544129447443" actual="0" highlighted="false" highlightingtype="Red" title="Get rid of Fixture::productModuleInstallPath()" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1543955152830" actual="0" highlighted="false" highlightingtype="Red" title="Rename Creator-&gt;FixtureCreator and Remover-&gt;FixtureRemover" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1543953547453" actual="0" highlighted="false" highlightingtype="Red" title="Add Cog theme" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support? (errors and success)" description="" />
@@ -21,20 +23,19 @@
       <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540572880244" actual="0" highlighted="false" highlightingtype="Red" title="Stop Drush --notify" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541470765388" actual="0" highlighted="false" highlightingtype="Red" title="Fix process runner not terminating PHP process from development web server" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1541545596711" actual="0" highlighted="false" highlightingtype="Red" title="Document release process" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543850292041" actual="0" highlighted="false" highlightingtype="Red" title="&quot;composer-exit-on-patch-failure&quot;: true," description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543953547453" actual="0" highlighted="false" highlightingtype="Red" title="Add Cog theme" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543954776885" actual="0" highlighted="false" highlightingtype="Red" title="Add to example directory (module, theme, drush-command, etc.)?" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543955152830" actual="0" highlighted="false" highlightingtype="Red" title="Rename Creator-&gt;FixtureCreator and Remover-&gt;FixtureRemover" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544030548703" actual="0" highlighted="false" highlightingtype="Red" title="Add MAINTAINING.md" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production [see note]" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
       <task priority="Normal" completed="false" estimated="0" created="1544035251848" actual="0" highlighted="false" highlightingtype="Red" title="Document need to alias branches [see note]" description="https://getcomposer.org/doc/articles/aliases.md#branch-alias" />
       <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544135410823" actual="0" highlighted="false" highlightingtype="Red" title="Consider changing docroot/modules/contrib/acquia to .../orca (or something)... [note]" description="...and only placing into it modules that are explicitly placed by an ORCA build (so that in a SUT-only build, for example, ORCA doesn&amp;#39;t install all submodules of non-SUT modules)." />
+      <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
+      <task priority="Questionable" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
     </tasks>
   </component>
 </application>
