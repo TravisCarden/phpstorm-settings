@@ -36,6 +36,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1544135410823" actual="0" highlighted="false" highlightingtype="Red" title="Consider changing docroot/modules/contrib/acquia to .../orca (or something)... [note]" description="...and only placing into it modules that are explicitly placed by an ORCA build (so that in a SUT-only build, for example, ORCA doesn&amp;#39;t install all submodules of non-SUT modules)." />
       <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
       <task priority="Questionable" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
     </tasks>
   </component>
 </application>
