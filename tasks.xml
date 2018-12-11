@@ -16,7 +16,11 @@
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
       </task>
-      <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may differ by branch or even commit." />
+      <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may differ by branch or even commit.">
+        <task priority="Normal" completed="false" estimated="0" created="1544505974337" actual="0" highlighted="false" highlightingtype="Red" title="Make sure the installer paths work and the submodules are placed int he correct location" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1544506000129" actual="0" highlighted="false" highlightingtype="Red" title="Get the relative paths (under the module parents) dynamically" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1544506014902" actual="0" highlighted="false" highlightingtype="Red" title="Limit repositories to submodules of the SUT" description="" />
+      </task>
       <task priority="Normal" completed="false" estimated="0" created="1543955152830" actual="0" highlighted="false" highlightingtype="Red" title="Rename Creator-&gt;FixtureCreator and Remover-&gt;FixtureRemover" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1543953547453" actual="0" highlighted="false" highlightingtype="Red" title="Add Cog theme" description="" />
@@ -35,6 +39,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
       <task priority="Questionable" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
     </tasks>
   </component>
 </application>
