@@ -34,6 +34,7 @@
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production (note)" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
       <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
       <task priority="Questionable" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
     </tasks>
   </component>
 </application>
