@@ -16,15 +16,14 @@
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1544600978438" actual="0" highlighted="false" highlightingtype="Red" title="Replace @property annotations" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543536333867" actual="0" highlighted="false" highlightingtype="Red" title="Handle submodules and Composer [note]" description="Jakob Perry brought this up. Submodules are defined in projects.yml but may differ by branch or even commit.">
         <task priority="Normal" completed="false" estimated="0" created="1544505974337" actual="0" highlighted="false" highlightingtype="Red" title="Make sure the installer paths work and the submodules are placed int he correct location" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544506000129" actual="0" highlighted="false" highlightingtype="Red" title="Get the relative paths (under the module parents) dynamically" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544506014902" actual="0" highlighted="false" highlightingtype="Red" title="Limit repositories to submodules of the SUT" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1543955152830" actual="0" highlighted="false" highlightingtype="Red" title="Rename Creator-&gt;FixtureCreator and Remover-&gt;FixtureRemover" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544548173770" actual="0" highlighted="false" highlightingtype="Red" title="Replace Fixture::docrootPath() with Fixture::rootPath()" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1543953547453" actual="0" highlighted="false" highlightingtype="Red" title="Add Cog theme" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support? (errors and success)" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
