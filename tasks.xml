@@ -13,6 +13,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1544635493321" actual="0" highlighted="false" highlightingtype="Red" title="Document adding a nightly cron job to run tests" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
+        <task priority="Important" completed="false" estimated="0" created="1544650398221" actual="0" highlighted="false" highlightingtype="Red" title="Implement new tagging strategy" description="" />
         <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
         <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
@@ -24,8 +25,8 @@
       <task priority="Normal" completed="false" estimated="0" created="1544492528664" actual="0" highlighted="false" highlightingtype="Red" title="Self Testing" description="">
         <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
-        <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
+        <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544632953567" actual="0" highlighted="false" highlightingtype="Red" title="ProjectManager::getMultiple($type, $getter) (emphasis on $getter) is a terrible idiom" description="" />
