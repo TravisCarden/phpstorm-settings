@@ -16,8 +16,9 @@
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1544600978438" actual="0" highlighted="false" highlightingtype="Red" title="Replace @property annotations" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1544548173770" actual="0" highlighted="false" highlightingtype="Red" title="Replace Fixture::docrootPath() with Fixture::rootPath()" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1544622618298" actual="0" highlighted="false" highlightingtype="Red" title="Minor" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
+      </task>
       <task priority="Normal" completed="false" estimated="0" created="1544602636645" actual="0" highlighted="false" highlightingtype="Red" title="Make sure all methods enforce their return values" description="" />
       <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
@@ -33,8 +34,6 @@
       <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production (note)" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
       <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
-      <task priority="Questionable" completed="false" estimated="0" created="1541551679975" actual="0" highlighted="false" highlightingtype="Red" title="Make most classes final?" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
     </tasks>
   </component>
