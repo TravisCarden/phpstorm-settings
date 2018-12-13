@@ -40,6 +40,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544602636645" actual="0" highlighted="false" highlightingtype="Red" title="Make sure all methods enforce their return values" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1544723464609" actual="0" highlighted="false" highlightingtype="Red" title="Consider using Symfony OptionsResolver to set Project defaults (notes)" description="https://symfony.com/doc/current/components/options_resolver.html" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622799272" actual="0" highlighted="false" highlightingtype="Red" title="Maybe/Someday" description="">
         <task priority="Normal" completed="false" estimated="0" created="1540503803974" actual="0" highlighted="false" highlightingtype="Red" title="Add terminal-notifier support? (errors and success)" description="" />
