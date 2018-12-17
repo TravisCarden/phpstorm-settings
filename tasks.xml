@@ -14,6 +14,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1544711353634" actual="0" highlighted="false" highlightingtype="Red" title="Document how submodules are found" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
+        <task priority="Important" completed="false" estimated="0" created="1545080163961" actual="0" highlighted="false" highlightingtype="Red" title="Display `composer why-not` output when failing to symlink the SUT" description="" />
         <task priority="Important" completed="false" estimated="0" created="1544650398221" actual="0" highlighted="false" highlightingtype="Red" title="Implement new tagging strategy" description="" />
         <task priority="Important" completed="false" estimated="0" created="1543500547775" actual="0" highlighted="false" highlightingtype="Red" title="Create .travis.yml env matrix for Drupal core version and isolated vs. integrated" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
