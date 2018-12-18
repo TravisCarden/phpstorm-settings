@@ -27,6 +27,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1545154627018" actual="0" highlighted="false" highlightingtype="Red" title="Fix static analysis not checking all files" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544632953567" actual="0" highlighted="false" highlightingtype="Red" title="ProjectManager::getMultiple($type, $getter) (emphasis on $getter) is a terrible idiom" description="" />
