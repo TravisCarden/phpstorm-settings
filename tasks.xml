@@ -47,6 +47,7 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production (note)" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
       <task priority="Normal" completed="false" estimated="0" created="1545100642402" actual="0" highlighted="false" highlightingtype="Red" title="Change Symfony security check and composer normalizer to not run on CI (note)" description="...unless self-test. We don&amp;#39;t want either of them to cause client builds to fail!" />
+      <task priority="Normal" completed="false" estimated="0" created="1545202029892" actual="0" highlighted="false" highlightingtype="Red" title="Add test for precondition of the SUT repository branch matching the branch alias (note)" description="...or add a feature to fix and normalize it." />
     </tasks>
   </component>
 </application>
