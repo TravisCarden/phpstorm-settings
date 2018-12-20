@@ -51,8 +51,9 @@
       <task priority="Normal" completed="false" estimated="0" created="1545243410094" actual="0" highlighted="false" highlightingtype="Red" title="Disabled projects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1545244930185" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_commercemanager" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545244936395" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_connector" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1545244943484" actual="0" highlighted="false" highlightingtype="Red" title="drupal/media_acquiadam" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545243469686" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_lift" description="Overrides `GuzzleHttp\Client` in its unit tests (`acquia_lift/tests/src/Unit/Polyfill/Drupal.php`), causing Lightning tests to fail. Discovered by Adam Hoenich." />
+        <task priority="Normal" completed="false" estimated="0" created="1545322591445" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acsf" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1545244943484" actual="0" highlighted="false" highlightingtype="Red" title="drupal/media_acquiadam" description="" />
       </task>
     </tasks>
   </component>
