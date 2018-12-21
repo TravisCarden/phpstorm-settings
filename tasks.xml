@@ -1,6 +1,9 @@
 <application>
   <component name="TaskStorage">
     <tasks>
+      <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1545433455379" actual="0" highlighted="false" highlightingtype="Red" title="Make `tests:run` command and/or `TestRunner` check for presence of SUT before running tests" description="" />
+      </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
