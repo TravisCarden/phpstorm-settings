@@ -19,7 +19,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1545458768373" actual="0" highlighted="false" highlightingtype="Red" title="Expand example/README.md" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
-        <task priority="Important" completed="false" estimated="0" created="1544650398221" actual="0" highlighted="false" highlightingtype="Red" title="Implement new tagging strategy" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
         <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
