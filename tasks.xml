@@ -5,6 +5,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545458681819" actual="0" highlighted="false" highlightingtype="Red" title="Run non-SUT tests" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545433455379" actual="0" highlighted="false" highlightingtype="Red" title="Make `tests:run` command and/or `TestRunner` check for presence of SUT before running tests" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1546439425624" actual="0" highlighted="false" highlightingtype="Red" title="Make tests:run command more resilient (in case it can't find a package directory)" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
