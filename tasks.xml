@@ -6,6 +6,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1545458681819" actual="0" highlighted="false" highlightingtype="Red" title="Run non-SUT tests" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545433455379" actual="0" highlighted="false" highlightingtype="Red" title="Make `tests:run` command and/or `TestRunner` check for presence of SUT before running tests" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546439425624" actual="0" highlighted="false" highlightingtype="Red" title="Make tests:run command more resilient (in case it can't find a package directory)" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1545202029892" actual="0" highlighted="false" highlightingtype="Red" title="Add test for precondition of the SUT repository branch matching the branch alias (note)" description="...or add a feature to fix and normalize it.&#10;https://github.com/acquia/lightning-core/pull/104/files" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
@@ -59,7 +60,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1544032037040" actual="0" highlighted="false" highlightingtype="Red" title="Evaluate options for excluding vendor tests in production (note)" description="- https://www.reddit.com/r/PHP/comments/2jzp6k/i_dont_need_your_tests_in_my_production/&#10;- https://packagist.org/packages/barryvdh/composer-cleanup-plugin" />
         <task priority="Normal" completed="false" estimated="0" created="1545929923870" actual="0" highlighted="false" highlightingtype="Red" title="Make Fixture Creator temporarily set global Git config for username and email if absent?" description="" />
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1545202029892" actual="0" highlighted="false" highlightingtype="Red" title="Add test for precondition of the SUT repository branch matching the branch alias (note)" description="...or add a feature to fix and normalize it.&#10;https://github.com/acquia/lightning-core/pull/104/files" />
       <task priority="Normal" completed="false" estimated="0" created="1545243410094" actual="0" highlighted="false" highlightingtype="Red" title="Disabled projects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1545244930185" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_commercemanager" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545244936395" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_connector" description="" />
