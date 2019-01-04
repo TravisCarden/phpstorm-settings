@@ -47,11 +47,9 @@
         <task priority="Normal" completed="false" estimated="0" created="1546545467625" actual="0" highlighted="false" highlightingtype="Red" title="acsf-tools doesn't always get installed at the right location (i.e., acsf_tools)" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622618298" actual="0" highlighted="false" highlightingtype="Red" title="Minor" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1544501092364" actual="0" highlighted="false" highlightingtype="Red" title="Change &quot;product modules&quot; language to &quot;projects&quot;" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544602636645" actual="0" highlighted="false" highlightingtype="Red" title="Make sure all methods enforce their return values" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542391614779" actual="0" highlighted="false" highlightingtype="Red" title="PHPCS should complain about a missing @return annotation" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544723464609" actual="0" highlighted="false" highlightingtype="Red" title="Consider using Symfony OptionsResolver to set Project defaults (notes)" description="https://symfony.com/doc/current/components/options_resolver.html" />
-        <task priority="Normal" completed="false" estimated="0" created="1545333957290" actual="0" highlighted="false" highlightingtype="Red" title="Rename &quot;projects&quot; to &quot;packages&quot;?" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545856221137" actual="0" highlighted="false" highlightingtype="Red" title="Look into matter of acquia/acsf-tools (hyphen) not installing at acsf_tools (underscore)" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545100642402" actual="0" highlighted="false" highlightingtype="Red" title="Change Symfony security check and composer normalizer to not run on CI (note)" description="...unless self-test. We don&amp;#39;t want either of them to cause client builds to fail!" />
       </task>
