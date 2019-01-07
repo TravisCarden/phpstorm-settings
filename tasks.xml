@@ -12,7 +12,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544030548703" actual="0" highlighted="false" highlightingtype="Red" title="Add MAINTAINING.md (note)" description="Incl. release process." />
-        <task priority="Normal" completed="false" estimated="0" created="1544035251848" actual="0" highlighted="false" highlightingtype="Red" title="Document need to alias branches (note)" description="https://getcomposer.org/doc/articles/aliases.md#branch-alias&#10;https://github.com/acquia/lightning-workflow/pull/76" />
         <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?" />
         <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542809586875" actual="0" highlighted="false" highlightingtype="Red" title="Document testing tools available (incl. DTT)" description="" />
@@ -26,8 +25,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
         <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543343683137" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1542822664968" actual="0" highlighted="false" highlightingtype="Red" title="Make version constraint of SUT suppliable by the SUT repo" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1542603439649" actual="0" highlighted="false" highlightingtype="Red" title="Split up commands? e.g. tests:behat, tests:phpunit, etc." description="" />
         <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492528664" actual="0" highlighted="false" highlightingtype="Red" title="Self Testing" description="">
