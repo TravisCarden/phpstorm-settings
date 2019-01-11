@@ -68,6 +68,8 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1546838144578" actual="0" highlighted="false" highlightingtype="Red" title="Other" description="">
         <task priority="Normal" completed="false" estimated="0" created="1546838153272" actual="0" highlighted="false" highlightingtype="Red" title="Get Drupal Spec Tool on ORCA" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1547214544497" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if Travis CI isn't running the right version of PHP" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1547214941589" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if ChromeDriver is absent" description="" />
       </task>
     </tasks>
   </component>
