@@ -30,11 +30,9 @@
         <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492528664" actual="0" highlighted="false" highlightingtype="Red" title="Self Testing" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1543425502477" actual="0" highlighted="false" highlightingtype="Red" title="Add some automated tests to example module" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1545154627018" actual="0" highlighted="false" highlightingtype="Red" title="Fix static analysis not checking all files" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546569754790" actual="0" highlighted="false" highlightingtype="Red" title="Add a Travis CI ENV/slot for SUT-less fixture" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
@@ -45,6 +43,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1544628565120" actual="0" highlighted="false" highlightingtype="Red" title="BLT: 'Could not scan for classes inside &quot;vendor/drupal/core/lib/Drupal.php&quot; which does not appear to be a file nor a folder'" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545840421075" actual="0" highlighted="false" highlightingtype="Red" title="Make test runner kill the server PHP process if there's a problem?" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546545467625" actual="0" highlighted="false" highlightingtype="Red" title="acsf-tools doesn't always get installed at the right location (i.e., acsf_tools)" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1547224192464" actual="0" highlighted="false" highlightingtype="Red" title="Fix defect risk of cloning Finder (and anything else that's cloned)" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622618298" actual="0" highlighted="false" highlightingtype="Red" title="Minor" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544602636645" actual="0" highlighted="false" highlightingtype="Red" title="Make sure all methods enforce their return values" description="" />
