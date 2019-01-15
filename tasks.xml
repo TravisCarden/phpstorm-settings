@@ -39,12 +39,8 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544632953567" actual="0" highlighted="false" highlightingtype="Red" title="ProjectManager::getMultiple($type, $getter) (emphasis on $getter) is a terrible idiom" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1543500531845" actual="0" highlighted="false" highlightingtype="Red" title="Fix Travis CI failing to install mcrypt" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1541470765388" actual="0" highlighted="false" highlightingtype="Red" title="Fix process runner not terminating PHP process from development web server" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1544119215465" actual="0" highlighted="false" highlightingtype="Red" title="Make WebServer::start() throw an exception if `drush webserver` doesn't actually work" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1544628565120" actual="0" highlighted="false" highlightingtype="Red" title="BLT: 'Could not scan for classes inside &quot;vendor/drupal/core/lib/Drupal.php&quot; which does not appear to be a file nor a folder'" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545840421075" actual="0" highlighted="false" highlightingtype="Red" title="Make test runner kill the server PHP process if there's a problem?" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1546545467625" actual="0" highlighted="false" highlightingtype="Red" title="acsf-tools doesn't always get installed at the right location (i.e., acsf_tools)" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547224192464" actual="0" highlighted="false" highlightingtype="Red" title="Fix defect risk of cloning Finder (and anything else that's cloned)" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622618298" actual="0" highlighted="false" highlightingtype="Red" title="Minor" description="">
@@ -68,9 +64,10 @@
         <task priority="Normal" completed="false" estimated="0" created="1545244943484" actual="0" highlighted="false" highlightingtype="Red" title="drupal/media_acquiadam" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1546838144578" actual="0" highlighted="false" highlightingtype="Red" title="Other" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1546838153272" actual="0" highlighted="false" highlightingtype="Red" title="Get Drupal Spec Tool on ORCA" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547214544497" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if Travis CI isn't running the right version of PHP" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547214941589" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if ChromeDriver is absent" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1547576055601" actual="0" highlighted="false" highlightingtype="Red" title="Use COMPOSER_ROOT_VERSION instead of changing the Git branch?" description="https://github.com/composer/composer/issues/7847" />
+        <task priority="Normal" completed="false" estimated="0" created="1547576590018" actual="0" highlighted="false" highlightingtype="Red" title="Add cron jobs that test all packages, dev and stable" description="" />
       </task>
     </tasks>
   </component>
