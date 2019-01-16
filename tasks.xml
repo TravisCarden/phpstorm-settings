@@ -5,17 +5,17 @@
         <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
           <task priority="Normal" completed="false" estimated="0" created="1547656597403" actual="0" highlighted="false" highlightingtype="Red" title="Package" description="">
             <task priority="Normal" completed="false" estimated="0" created="1547656328387" actual="0" highlighted="false" highlightingtype="Red" title="Fail if missing version_dev" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1547656345706" actual="0" highlighted="false" highlightingtype="Red" title="Add getPackageStringDev()" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1547656351715" actual="0" highlighted="false" highlightingtype="Red" title="Add getVersionDev()" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1547656362268" actual="0" highlighted="false" highlightingtype="Red" title="Rename getVersion() to getVersionRecommended()" description="" />
             <task priority="Normal" completed="false" estimated="0" created="1547656631774" actual="0" highlighted="false" highlightingtype="Red" title="Fail if supplied unknown data elements" description="" />
           </task>
+          <task priority="Normal" completed="false" estimated="0" created="1547664592381" actual="0" highlighted="false" highlightingtype="Red" title="Require drupal/core dev" description="" />
         </task>
         <task priority="Normal" completed="false" estimated="0" created="1547495141820" actual="0" highlighted="false" highlightingtype="Red" title="Create and implement HEAD vs. release fixtures" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546838379031" actual="0" highlighted="false" highlightingtype="Red" title="Install ORCA via Composer (e.g., Satis &quot;server&quot;?)" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545458681819" actual="0" highlighted="false" highlightingtype="Red" title="Run non-SUT tests" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547061450831" actual="0" highlighted="false" highlightingtype="Red" title="Add to FixtureCreator::ensurePreconditions() test that SUT repo has a topic branch checked out (note)" description="i.e., `git rev-parse --abbrev-ref HEAD` doesn&amp;#39;t return &amp;quot;HEAD&amp;quot;&#9;" />
+        <task priority="Normal" completed="false" estimated="0" created="1547664764957" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
