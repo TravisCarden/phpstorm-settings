@@ -2,6 +2,15 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
+        <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
+          <task priority="Normal" completed="false" estimated="0" created="1547656597403" actual="0" highlighted="false" highlightingtype="Red" title="Package" description="">
+            <task priority="Normal" completed="false" estimated="0" created="1547656328387" actual="0" highlighted="false" highlightingtype="Red" title="Fail if missing version_dev" description="" />
+            <task priority="Normal" completed="false" estimated="0" created="1547656345706" actual="0" highlighted="false" highlightingtype="Red" title="Add getPackageStringDev()" description="" />
+            <task priority="Normal" completed="false" estimated="0" created="1547656351715" actual="0" highlighted="false" highlightingtype="Red" title="Add getVersionDev()" description="" />
+            <task priority="Normal" completed="false" estimated="0" created="1547656362268" actual="0" highlighted="false" highlightingtype="Red" title="Rename getVersion() to getVersionRecommended()" description="" />
+            <task priority="Normal" completed="false" estimated="0" created="1547656631774" actual="0" highlighted="false" highlightingtype="Red" title="Fail if supplied unknown data elements" description="" />
+          </task>
+        </task>
         <task priority="Normal" completed="false" estimated="0" created="1547495141820" actual="0" highlighted="false" highlightingtype="Red" title="Create and implement HEAD vs. release fixtures" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546838379031" actual="0" highlighted="false" highlightingtype="Red" title="Install ORCA via Composer (e.g., Satis &quot;server&quot;?)" description="" />
