@@ -3,6 +3,7 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
         <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
+          <task priority="Normal" completed="false" estimated="0" created="1548185393545" actual="0" highlighted="false" highlightingtype="Red" title="Install drupal/core dev" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1547665487959" actual="0" highlighted="false" highlightingtype="Red" title="Document the new fixture flavor" description="" />
         </task>
         <task priority="Important" completed="false" estimated="0" created="1547665447699" actual="0" highlighted="false" highlightingtype="Red" title="Get BLT 10.x testing with ORCA" description="" />
@@ -41,6 +42,7 @@
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1546569754790" actual="0" highlighted="false" highlightingtype="Red" title="Add a Travis CI ENV/slot for SUT-less fixture" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547753270621" actual="0" highlighted="false" highlightingtype="Red" title="Add PHPUnit tests to the example package that use JavaScript tests 'n such" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1548185337947" actual="0" highlighted="false" highlightingtype="Red" title="On a --dev fixture, test to make sure the dev version of Drupal core is installed" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544632953567" actual="0" highlighted="false" highlightingtype="Red" title="ProjectManager::getMultiple($type, $getter) (emphasis on $getter) is a terrible idiom" description="" />
