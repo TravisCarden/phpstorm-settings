@@ -3,12 +3,7 @@
     <tasks>
       <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
         <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
-          <task priority="Normal" completed="false" estimated="0" created="1547656597403" actual="0" highlighted="false" highlightingtype="Red" title="Package" description="">
-            <task priority="Normal" completed="false" estimated="0" created="1547656631774" actual="0" highlighted="false" highlightingtype="Red" title="Fail if supplied unknown data elements" description="" />
-          </task>
-          <task priority="Normal" completed="false" estimated="0" created="1547664592381" actual="0" highlighted="false" highlightingtype="Red" title="Require drupal/core dev" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1547665487959" actual="0" highlighted="false" highlightingtype="Red" title="Document the new fixture flavor" description="" />
-          <task priority="Normal" completed="false" estimated="0" created="1547767308814" actual="0" highlighted="false" highlightingtype="Red" title="Figure out how to handle dev dependencies of packages" description="" />
         </task>
         <task priority="Important" completed="false" estimated="0" created="1547665447699" actual="0" highlighted="false" highlightingtype="Red" title="Get BLT 10.x testing with ORCA" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
@@ -18,20 +13,17 @@
         <task priority="Normal" completed="false" estimated="0" created="1547664764957" actual="0" highlighted="false" highlightingtype="Red" title="Create fixture:status command" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?&#10;- What about dev dependencies? - ORCA can&amp;#39;t load dev dependencies because Composer only manages dev dependencies of the root package and because of the possibility of conflicts with other packages and their dev dependencies. You should `orca_ignore` tests that require special dependencies. But still use ORCA to build your fixture, if possible, so you still detect conflicts with other Acquia code.&#10;- I see Git errors during fixture creation. - You don&amp;#39;t have your user.email global Git config set. It&amp;#39;s okay locally, but you can set the config to make it go away.&#10;- How do I deploy to an Acquia Cloud environment?" />
+        <task priority="Normal" completed="false" estimated="0" created="1544711353634" actual="0" highlighted="false" highlightingtype="Red" title="Document how submodules are found" description="">
+          <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
+        </task>
         <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544030548703" actual="0" highlighted="false" highlightingtype="Red" title="Add MAINTAINING.md (note)" description="Incl. release process." />
-        <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?" />
         <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1542809586875" actual="0" highlighted="false" highlightingtype="Red" title="Document testing tools available (incl. DTT)" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544635493321" actual="0" highlighted="false" highlightingtype="Red" title="Document adding a nightly cron job to run tests" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1544711353634" actual="0" highlighted="false" highlightingtype="Red" title="Document how submodules are found" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545458768373" actual="0" highlighted="false" highlightingtype="Red" title="Expand example/README.md" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1545731678415" actual="0" highlighted="false" highlightingtype="Red" title="Document recommendations for writing tests that won't pollute other products' test runs" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1545929885328" actual="0" highlighted="false" highlightingtype="Red" title="Must have global Git config for username and email" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1547584734069" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="">
-          <task priority="Normal" completed="false" estimated="0" created="1547584765401" actual="0" highlighted="false" highlightingtype="Red" title="How do I deploy to an Acquia Cloud environment?" description="" />
-        </task>
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
         <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
@@ -81,6 +73,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1547214941589" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if ChromeDriver is absent" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547576055601" actual="0" highlighted="false" highlightingtype="Red" title="Use COMPOSER_ROOT_VERSION instead of changing the Git branch?" description="https://github.com/composer/composer/issues/7847" />
         <task priority="Normal" completed="false" estimated="0" created="1547576590018" actual="0" highlighted="false" highlightingtype="Red" title="Add cron jobs that test all packages, dev and stable" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1548183639698" actual="0" highlighted="false" highlightingtype="Red" title="Deal w/ problem from BLT's inclusion of webflo/drupal-core-require-dev" description="https://github.com/acquia/blt-require-dev/blob/master/composer.json" />
       </task>
     </tasks>
   </component>
