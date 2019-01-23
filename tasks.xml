@@ -4,7 +4,6 @@
       <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
         <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
           <task priority="Normal" completed="false" estimated="0" created="1547665487959" actual="0" highlighted="false" highlightingtype="Red" title="Document the new fixture flavor" description="" />
-          <task priority="Normal" completed="false" estimated="0" created="1548187178371" actual="0" highlighted="false" highlightingtype="Red" title="Properly inject current Drupal core dev version" description="" />
         </task>
         <task priority="Important" completed="false" estimated="0" created="1547665447699" actual="0" highlighted="false" highlightingtype="Red" title="Get BLT 10.x testing with ORCA" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1543441528882" actual="0" highlighted="false" highlightingtype="Red" title="Document test tagging requirements/strategy" description="" />
