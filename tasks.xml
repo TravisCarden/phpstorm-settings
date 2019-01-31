@@ -22,15 +22,10 @@
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1544151081240" actual="0" highlighted="false" highlightingtype="Red" title="Add @covers annotations" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1546569754790" actual="0" highlighted="false" highlightingtype="Red" title="Add a Travis CI ENV/slot for SUT-less fixture" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547753270621" actual="0" highlighted="false" highlightingtype="Red" title="Add PHPUnit tests to the example package that use JavaScript tests 'n such" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1548185337947" actual="0" highlighted="false" highlightingtype="Red" title="On a --dev fixture, test to make sure the dev version of Drupal core is installed" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1548271432154" actual="0" highlighted="false" highlightingtype="Red" title="Add a cron job that runs all product tests" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1548271468509" actual="0" highlighted="false" highlightingtype="Red" title="Add a test job that builds a fixture with real, live packages, so as to test symlinking, etc." description="" />
-      </task>
-      <task priority="Normal" completed="false" estimated="0" created="1544623022097" actual="0" highlighted="false" highlightingtype="Red" title="Problems and Defects" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1544632953567" actual="0" highlighted="false" highlightingtype="Red" title="ProjectManager::getMultiple($type, $getter) (emphasis on $getter) is a terrible idiom" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1545840421075" actual="0" highlighted="false" highlightingtype="Red" title="Make test runner kill the server PHP process if there's a problem?" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622618298" actual="0" highlighted="false" highlightingtype="Red" title="Minor" description="">
         <task priority="Normal" completed="false" estimated="0" created="1544602636645" actual="0" highlighted="false" highlightingtype="Red" title="Make sure all methods enforce their return values" description="" />
