@@ -9,9 +9,6 @@
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492293440" actual="0" highlighted="false" highlightingtype="Red" title="Documentation" description="">
         <task priority="Normal" completed="false" estimated="0" created="1542825429416" actual="0" highlighted="false" highlightingtype="Red" title="FAQ" description="- What is &amp;quot;SUT&amp;quot;?&#10;- I see Git errors during fixture creation.&#10;- You don&amp;#39;t have your user.email global Git config set. It&amp;#39;s okay locally, but you can set the config to make it go away.&#10;- How do I deploy to an Acquia Cloud environment?" />
-        <task priority="Normal" completed="false" estimated="0" created="1544711353634" actual="0" highlighted="false" highlightingtype="Red" title="Document how submodules are found" description="">
-          <task priority="Normal" completed="false" estimated="0" created="1544196026376" actual="0" highlighted="false" highlightingtype="Red" title="Document extra.orca.install:false in composer.json feature" description="" />
-        </task>
         <task priority="Normal" completed="false" estimated="0" created="1544030542782" actual="0" highlighted="false" highlightingtype="Red" title="Add DEVELOPING.md" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544030548703" actual="0" highlighted="false" highlightingtype="Red" title="Add MAINTAINING.md (note)" description="Incl. release process. Remember version string in `bin/orca`" />
         <task priority="Normal" completed="false" estimated="0" created="1542822931940" actual="0" highlighted="false" highlightingtype="Red" title="Record video session explaining ORCA" description="" />
