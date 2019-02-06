@@ -1,10 +1,6 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1545433455379" actual="0" highlighted="false" highlightingtype="Red" title="Make `tests:run` command and/or `TestRunner` check for presence of SUT before running tests" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1547566546774" actual="0" highlighted="false" highlightingtype="Red" title="Add test hooks and restore the fixture between tests (note)" description="E.g., Behat hooks and PHPUnit template methods." />
-      </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492528664" actual="0" highlighted="false" highlightingtype="Red" title="Self Testing" description="">
         <task priority="Normal" completed="false" estimated="0" created="1540529985142" actual="0" highlighted="false" highlightingtype="Red" title="Track PHPUnit code coverage" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1544505466209" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to create isolated and integrated fixtures in different directories during self-test to allow for inspection and debugging?" description="" />
@@ -35,13 +31,6 @@
         <task priority="Normal" completed="false" estimated="0" created="1545243469686" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acquia_lift" description="Overrides `GuzzleHttp\Client` in its unit tests (`acquia_lift/tests/src/Unit/Polyfill/Drupal.php`), causing Lightning tests to fail. Discovered by Adam Hoenich." />
         <task priority="Normal" completed="false" estimated="0" created="1545322591445" actual="0" highlighted="false" highlightingtype="Red" title="drupal/acsf" description="- https://backlog.acquia.com/browse/PF-1710" />
         <task priority="Normal" completed="false" estimated="0" created="1545244943484" actual="0" highlighted="false" highlightingtype="Red" title="drupal/media_acquiadam" description="" />
-      </task>
-      <task priority="Normal" completed="false" estimated="0" created="1546838144578" actual="0" highlighted="false" highlightingtype="Red" title="Other" description="">
-        <task priority="Normal" completed="false" estimated="0" created="1547214544497" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if Travis CI isn't running the right version of PHP" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1547214941589" actual="0" highlighted="false" highlightingtype="Red" title="Add an assertion that fails the build if ChromeDriver is absent" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1547576055601" actual="0" highlighted="false" highlightingtype="Red" title="Use COMPOSER_ROOT_VERSION instead of changing the Git branch?" description="https://github.com/composer/composer/issues/7847" />
-        <task priority="Normal" completed="false" estimated="0" created="1547576590018" actual="0" highlighted="false" highlightingtype="Red" title="Add cron jobs that test all packages, dev and stable" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1548183639698" actual="0" highlighted="false" highlightingtype="Red" title="Deal w/ problem from BLT's inclusion of webflo/drupal-core-require-dev" description="https://github.com/acquia/blt-require-dev/blob/master/composer.json" />
       </task>
     </tasks>
   </component>
