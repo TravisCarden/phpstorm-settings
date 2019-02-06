@@ -1,20 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1545433412921" actual="0" highlighted="false" highlightingtype="Red" title="WIP" description="">
-        <task priority="Important" completed="false" estimated="0" created="1547656313258" actual="0" highlighted="false" highlightingtype="Red" title="Current Task" description="">
-          <task priority="Normal" completed="false" estimated="0" created="1548341407076" actual="0" highlighted="false" highlightingtype="Red" title="Make sure run-server(s?) command runs ChromeDriver, too, so it can be used on CI" description="" />
-        </task>
-        <task priority="Normal" completed="false" estimated="0" created="1547061450831" actual="0" highlighted="false" highlightingtype="Red" title="Add to FixtureCreator::ensurePreconditions() test that SUT repo has a topic branch checked out (note)" description="i.e., `git rev-parse --abbrev-ref HEAD` doesn&amp;#39;t return &amp;quot;HEAD&amp;quot;&#9;" />
-      </task>
       <task priority="Normal" completed="false" estimated="0" created="1544622916781" actual="0" highlighted="false" highlightingtype="Red" title="New Features" description="">
-        <task priority="Important" completed="false" estimated="0" created="1548445021896" actual="0" highlighted="false" highlightingtype="Red" title="Add the ability to target tags/groups with test:run" description="https://backlog.acquia.com/browse/OCTO-2204" />
-        <task priority="Normal" completed="false" estimated="0" created="1542124600253" actual="0" highlighted="false" highlightingtype="Red" title="Add phpcs sniffing of SUT" description="https://github.com/squizlabs/PHP_CodeSniffer/issues/262" />
-        <task priority="Normal" completed="false" estimated="0" created="1540581200239" actual="0" highlighted="false" highlightingtype="Red" title="Add YAML and JSON linting" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1541464203419" actual="0" highlighted="false" highlightingtype="Red" title="Re-enable Symfony deprecation helper in PHPUnit test runner?" description="http://hojtsy.hu/blog/2018-dec-17/how-automate-testing-whether-your-drupal-8-module-incompatible-drupal-9" />
-        <task priority="Normal" completed="false" estimated="0" created="1545202029892" actual="0" highlighted="false" highlightingtype="Red" title="Add test for precondition of the SUT repository branch matching the branch alias (note)" description="...or add a feature to fix and normalize it.&#10;https://github.com/acquia/lightning-core/pull/104/files" />
         <task priority="Normal" completed="false" estimated="0" created="1545433455379" actual="0" highlighted="false" highlightingtype="Red" title="Make `tests:run` command and/or `TestRunner` check for presence of SUT before running tests" description="" />
-        <task priority="Normal" completed="false" estimated="0" created="1547139944642" actual="0" highlighted="false" highlightingtype="Red" title="Add PHPUnit tests to the example package" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1547566546774" actual="0" highlighted="false" highlightingtype="Red" title="Add test hooks and restore the fixture between tests (note)" description="E.g., Behat hooks and PHPUnit template methods." />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1544492528664" actual="0" highlighted="false" highlightingtype="Red" title="Self Testing" description="">
