@@ -2,6 +2,7 @@
   <component name="TaskStorage">
     <tasks>
       <task priority="Normal" completed="false" estimated="0" created="1551118625794" actual="0" highlighted="false" highlightingtype="Red" title="Add --phpcs, etc. options to static-analysis:run command" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1551124939713" actual="0" highlighted="false" highlightingtype="Red" title="Integrate lightning" description="" />
     </tasks>
   </component>
 </application>
