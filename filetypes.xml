@@ -10,6 +10,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
+      <mapping ext="neon" type="YAML" />
     </extensionMap>
   </component>
 </application>
