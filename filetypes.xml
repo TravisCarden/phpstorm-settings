@@ -2,17 +2,17 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="*neon..dist" type="Neon" />
-      <removed_mapping ext="neon" type="Neon" />
-      <mapping ext="engine" type="PHP" />
+      <mapping pattern="*.neon.dist" type="Neon" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping ext="engine" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="*.xml.dist" type="XML" />
-      <mapping ext="neon" type="YAML" />
+      <removed_mapping ext="neon" approved="true" type="YAML" />
+      <removed_mapping pattern="*neon..dist" approved="true" type="Neon" />
     </extensionMap>
   </component>
 </application>
