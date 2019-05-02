@@ -1,9 +1,5 @@
 <application>
   <component name="TaskStorage">
-    <tasks>
-      <task priority="Normal" completed="false" estimated="0" created="1554955490895" actual="0" highlighted="false" highlightingtype="Red" title="Make DRUPAL_NEXT build succeed early of latest pre-release of Drupal core is older than current recommended" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1556036235741" actual="0" highlighted="false" highlightingtype="Red" title="Make NEXT_RELEASE error if impoossible" description="" />
-      <task priority="Normal" completed="false" estimated="0" created="1556036259171" actual="0" highlighted="false" highlightingtype="Red" title="Investigate whether ORCA can dynamically change packages.yml version numbers to &lt;= for future core versions." description="" />
-    </tasks>
+    <tasks />
   </component>
 </application>
