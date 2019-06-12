@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="50" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
